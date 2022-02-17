@@ -2,8 +2,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/wulu-epic/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/wulu-epic/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/wulu-epic/a/blob/master/generated/overview.svg)
+![](https://github.com/wulu-epic/a/blob/master/generated/languages.svg)
 
 </a>
 
